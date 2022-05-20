@@ -1,8 +1,7 @@
 import Head from 'next/head'
 import Link from '../src/components/Link'
-// import styles from '../styles/Home.module.css'
 
-export default function HomePage() {
+export default function Page404() {
   return (
     <div className={styles.container}>
       <Head>
